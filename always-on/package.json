@@ -1,0 +1,23 @@
+{
+  "name": "always-on",
+  "displayName": "phwt's always-on",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "maptz.regionfolder",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "waderyan.gitblame",
+    "esbenp.prettier-vscode",
+    "vscodevim.vim"
+  ]
+}
