@@ -1,0 +1,30 @@
+{
+  "name": "azure",
+  "displayName": "phwt's Azure",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "4ops.terraform",
+    "Azurite.azurite",
+    "bencoleman.armview",
+    "hashicorp.terraform",
+    "msazurermtools.azurerm-vscode-tools",
+    "ms-azuretools.vscode-azureappservice",
+    "ms-azuretools.vscode-azurefunctions",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "ms-azuretools.vscode-azurestaticwebapps",
+    "ms-azuretools.vscode-azurestorage",
+    "ms-azuretools.vscode-azureterraform",
+    "ms-azuretools.vscode-azurevirtualmachines",
+    "ms-azuretools.vscode-cosmosdb",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.azure-account",
+    "ms-vscode.azurecli"
+  ]
+}

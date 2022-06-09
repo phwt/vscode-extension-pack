@@ -1,0 +1,16 @@
+{
+  "name": "dotnet",
+  "displayName": "phwt's .NET",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-dotnettools.csharp",
+    "k--kato.docomment"
+  ]
+}

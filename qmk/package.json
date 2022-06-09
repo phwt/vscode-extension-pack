@@ -1,0 +1,17 @@
+{
+  "name": "qmk",
+  "displayName": "phwt's QMK",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-vscode.cpptools",
+    "xaver.clang-format",
+    "Ciantic.keymapceditor-vsc"
+  ]
+}

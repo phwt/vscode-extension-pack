@@ -1,0 +1,19 @@
+{
+  "name": "python",
+  "displayName": "phwt's Python",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "njpwerner.autodocstring",
+    "ms-toolsai.jupyter",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "KevinRose.vsc-python-indent"
+  ]
+}

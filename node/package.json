@@ -1,0 +1,18 @@
+{
+  "name": "web",
+  "displayName": "phwt's web development",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "stringham.copy-with-imports",
+    "dbaeumer.vscode-eslint",
+    "ritwickdey.LiveServer",
+    "eg2.vscode-npm-script"
+  ]
+}
